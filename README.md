@@ -10,3 +10,6 @@
 3. requirements.txt
 - pip install -r requirements.txt 명령어로 필요한 라이브러리를 설치하기 위해 사용
 - 예: discord.py==2.1.0, python-dotenv==1.0.0 등
+
+
+git test
